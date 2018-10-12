@@ -1,0 +1,602 @@
+fileFormatVersion: 2
+guid: 24a864db49f90b6488eea7058960d122
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Amateur
+    100002: Camera
+    100004: Camera.001
+    100006: Cylinder
+    100008: Empty
+    100010: Head
+    100012: Head_end
+    100014: Lamp
+    100016: LegA
+    100018: LegA.001
+    100020: LegA.002
+    100022: LegA.003
+    100024: LegA.004
+    100026: LegA.005
+    100028: LegB
+    100030: LegB.001
+    100032: LegB.002
+    100034: LegB.003
+    100036: LegB.004
+    100038: LegB.005
+    100040: LegC
+    100042: LegC.001
+    100044: LegC.001_end
+    100046: LegC.001_end_end
+    100048: LegC.002
+    100050: LegC.002_end
+    100052: LegC.002_end_end
+    100054: LegC.003
+    100056: LegC.003_end
+    100058: LegC.003_end_end
+    100060: LegC.004
+    100062: LegC.004_end
+    100064: LegC.004_end_end
+    100066: LegC.005
+    100068: LegC.005_end
+    100070: LegC.005_end_end
+    100072: LegC_end
+    100074: LegC_end_end
+    100076: Master
+    100078: Platform
+    100080: Robot
+    100082: //RootNode
+    400000: Amateur
+    400002: Camera
+    400004: Camera.001
+    400006: Cylinder
+    400008: Empty
+    400010: Head
+    400012: Head_end
+    400014: Lamp
+    400016: LegA
+    400018: LegA.001
+    400020: LegA.002
+    400022: LegA.003
+    400024: LegA.004
+    400026: LegA.005
+    400028: LegB
+    400030: LegB.001
+    400032: LegB.002
+    400034: LegB.003
+    400036: LegB.004
+    400038: LegB.005
+    400040: LegC
+    400042: LegC.001
+    400044: LegC.001_end
+    400046: LegC.001_end_end
+    400048: LegC.002
+    400050: LegC.002_end
+    400052: LegC.002_end_end
+    400054: LegC.003
+    400056: LegC.003_end
+    400058: LegC.003_end_end
+    400060: LegC.004
+    400062: LegC.004_end
+    400064: LegC.004_end_end
+    400066: LegC.005
+    400068: LegC.005_end
+    400070: LegC.005_end_end
+    400072: LegC_end
+    400074: LegC_end_end
+    400076: Master
+    400078: Platform
+    400080: Robot
+    400082: //RootNode
+    2300000: Cylinder
+    3300000: Cylinder
+    4300000: Cylinder
+    4300002: Robot
+    7400000: Amateur|Amateur|Walk|Walk
+    7400002: Amateur|CylinderAction
+    7400004: Cylinder|CylinderAction
+    7400006: walk
+    7400008: idle
+    7400010: death
+    9500000: //RootNode
+    13700000: Robot
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Amateur|Amateur|Walk|Walk
+      takeName: Amateur|Amateur|Walk|Walk
+      firstFrame: 0
+      lastFrame: 119
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Amateur
+        weight: 1
+      - path: Amateur/Master
+        weight: 1
+      - path: Amateur/Master/Platform
+        weight: 1
+      - path: Amateur/Master/Platform/Head
+        weight: 1
+      - path: Amateur/Master/Platform/Head/Cylinder
+        weight: 1
+      - path: Amateur/Master/Platform/Head/Head_end
+        weight: 1
+      - path: Amateur/Master/Platform/LegA
+        weight: 1
+      - path: Amateur/Master/Platform/LegA/LegB
+        weight: 1
+      - path: Amateur/Master/Platform/LegA/LegB/LegC
+        weight: 1
+      - path: Amateur/Master/Platform/LegA/LegB/LegC/LegC_end
+        weight: 1
+      - path: Amateur/Master/Platform/LegA/LegB/LegC/LegC_end/LegC_end_end
+        weight: 1
+      - path: Amateur/Master/Platform/LegA.001
+        weight: 1
+      - path: Amateur/Master/Platform/LegA.001/LegB.001
+        weight: 1
+      - path: Amateur/Master/Platform/LegA.001/LegB.001/LegC.001
+        weight: 1
+      - path: Amateur/Master/Platform/LegA.001/LegB.001/LegC.001/LegC.001_end
+        weight: 1
+      - path: Amateur/Master/Platform/LegA.001/LegB.001/LegC.001/LegC.001_end/LegC.001_end_end
+        weight: 1
+      - path: Amateur/Master/Platform/LegA.002
+        weight: 1
+      - path: Amateur/Master/Platform/LegA.002/LegB.002
+        weight: 1
+      - path: Amateur/Master/Platform/LegA.002/LegB.002/LegC.002
+        weight: 1
+      - path: Amateur/Master/Platform/LegA.002/LegB.002/LegC.002/LegC.002_end
+        weight: 1
+      - path: Amateur/Master/Platform/LegA.002/LegB.002/LegC.002/LegC.002_end/LegC.002_end_end
+        weight: 1
+      - path: Amateur/Master/Platform/LegA.003
+        weight: 1
+      - path: Amateur/Master/Platform/LegA.003/LegB.003
+        weight: 1
+      - path: Amateur/Master/Platform/LegA.003/LegB.003/LegC.003
+        weight: 1
+      - path: Amateur/Master/Platform/LegA.003/LegB.003/LegC.003/LegC.003_end
+        weight: 1
+      - path: Amateur/Master/Platform/LegA.003/LegB.003/LegC.003/LegC.003_end/LegC.003_end_end
+        weight: 1
+      - path: Amateur/Master/Platform/LegA.004
+        weight: 1
+      - path: Amateur/Master/Platform/LegA.004/LegB.004
+        weight: 1
+      - path: Amateur/Master/Platform/LegA.004/LegB.004/LegC.004
+        weight: 1
+      - path: Amateur/Master/Platform/LegA.004/LegB.004/LegC.004/LegC.004_end
+        weight: 1
+      - path: Amateur/Master/Platform/LegA.004/LegB.004/LegC.004/LegC.004_end/LegC.004_end_end
+        weight: 1
+      - path: Amateur/Master/Platform/LegA.005
+        weight: 1
+      - path: Amateur/Master/Platform/LegA.005/LegB.005
+        weight: 1
+      - path: Amateur/Master/Platform/LegA.005/LegB.005/LegC.005
+        weight: 1
+      - path: Amateur/Master/Platform/LegA.005/LegB.005/LegC.005/LegC.005_end
+        weight: 1
+      - path: Amateur/Master/Platform/LegA.005/LegB.005/LegC.005/LegC.005_end/LegC.005_end_end
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Camera.001
+        weight: 1
+      - path: Empty
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: Robot
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: walk
+      takeName: Amateur|Amateur|Walk|Walk
+      firstFrame: 0
+      lastFrame: 50
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Amateur
+        weight: 1
+      - path: Amateur/Master
+        weight: 1
+      - path: Amateur/Master/Platform
+        weight: 1
+      - path: Amateur/Master/Platform/Head
+        weight: 1
+      - path: Amateur/Master/Platform/Head/Cylinder
+        weight: 1
+      - path: Amateur/Master/Platform/Head/Head_end
+        weight: 1
+      - path: Amateur/Master/Platform/LegA
+        weight: 1
+      - path: Amateur/Master/Platform/LegA/LegB
+        weight: 1
+      - path: Amateur/Master/Platform/LegA/LegB/LegC
+        weight: 1
+      - path: Amateur/Master/Platform/LegA/LegB/LegC/LegC_end
+        weight: 1
+      - path: Amateur/Master/Platform/LegA/LegB/LegC/LegC_end/LegC_end_end
+        weight: 1
+      - path: Amateur/Master/Platform/LegA.001
+        weight: 1
+      - path: Amateur/Master/Platform/LegA.001/LegB.001
+        weight: 1
+      - path: Amateur/Master/Platform/LegA.001/LegB.001/LegC.001
+        weight: 1
+      - path: Amateur/Master/Platform/LegA.001/LegB.001/LegC.001/LegC.001_end
+        weight: 1
+      - path: Amateur/Master/Platform/LegA.001/LegB.001/LegC.001/LegC.001_end/LegC.001_end_end
+        weight: 1
+      - path: Amateur/Master/Platform/LegA.002
+        weight: 1
+      - path: Amateur/Master/Platform/LegA.002/LegB.002
+        weight: 1
+      - path: Amateur/Master/Platform/LegA.002/LegB.002/LegC.002
+        weight: 1
+      - path: Amateur/Master/Platform/LegA.002/LegB.002/LegC.002/LegC.002_end
+        weight: 1
+      - path: Amateur/Master/Platform/LegA.002/LegB.002/LegC.002/LegC.002_end/LegC.002_end_end
+        weight: 1
+      - path: Amateur/Master/Platform/LegA.003
+        weight: 1
+      - path: Amateur/Master/Platform/LegA.003/LegB.003
+        weight: 1
+      - path: Amateur/Master/Platform/LegA.003/LegB.003/LegC.003
+        weight: 1
+      - path: Amateur/Master/Platform/LegA.003/LegB.003/LegC.003/LegC.003_end
+        weight: 1
+      - path: Amateur/Master/Platform/LegA.003/LegB.003/LegC.003/LegC.003_end/LegC.003_end_end
+        weight: 1
+      - path: Amateur/Master/Platform/LegA.004
+        weight: 1
+      - path: Amateur/Master/Platform/LegA.004/LegB.004
+        weight: 1
+      - path: Amateur/Master/Platform/LegA.004/LegB.004/LegC.004
+        weight: 1
+      - path: Amateur/Master/Platform/LegA.004/LegB.004/LegC.004/LegC.004_end
+        weight: 1
+      - path: Amateur/Master/Platform/LegA.004/LegB.004/LegC.004/LegC.004_end/LegC.004_end_end
+        weight: 1
+      - path: Amateur/Master/Platform/LegA.005
+        weight: 1
+      - path: Amateur/Master/Platform/LegA.005/LegB.005
+        weight: 1
+      - path: Amateur/Master/Platform/LegA.005/LegB.005/LegC.005
+        weight: 1
+      - path: Amateur/Master/Platform/LegA.005/LegB.005/LegC.005/LegC.005_end
+        weight: 1
+      - path: Amateur/Master/Platform/LegA.005/LegB.005/LegC.005/LegC.005_end/LegC.005_end_end
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Camera.001
+        weight: 1
+      - path: Empty
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: Robot
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: idle
+      takeName: Amateur|Amateur|Walk|Walk
+      firstFrame: 60
+      lastFrame: 100
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Amateur
+        weight: 1
+      - path: Amateur/Master
+        weight: 1
+      - path: Amateur/Master/Platform
+        weight: 1
+      - path: Amateur/Master/Platform/Head
+        weight: 1
+      - path: Amateur/Master/Platform/Head/Cylinder
+        weight: 1
+      - path: Amateur/Master/Platform/Head/Head_end
+        weight: 1
+      - path: Amateur/Master/Platform/LegA
+        weight: 1
+      - path: Amateur/Master/Platform/LegA/LegB
+        weight: 1
+      - path: Amateur/Master/Platform/LegA/LegB/LegC
+        weight: 1
+      - path: Amateur/Master/Platform/LegA/LegB/LegC/LegC_end
+        weight: 1
+      - path: Amateur/Master/Platform/LegA/LegB/LegC/LegC_end/LegC_end_end
+        weight: 1
+      - path: Amateur/Master/Platform/LegA.001
+        weight: 1
+      - path: Amateur/Master/Platform/LegA.001/LegB.001
+        weight: 1
+      - path: Amateur/Master/Platform/LegA.001/LegB.001/LegC.001
+        weight: 1
+      - path: Amateur/Master/Platform/LegA.001/LegB.001/LegC.001/LegC.001_end
+        weight: 1
+      - path: Amateur/Master/Platform/LegA.001/LegB.001/LegC.001/LegC.001_end/LegC.001_end_end
+        weight: 1
+      - path: Amateur/Master/Platform/LegA.002
+        weight: 1
+      - path: Amateur/Master/Platform/LegA.002/LegB.002
+        weight: 1
+      - path: Amateur/Master/Platform/LegA.002/LegB.002/LegC.002
+        weight: 1
+      - path: Amateur/Master/Platform/LegA.002/LegB.002/LegC.002/LegC.002_end
+        weight: 1
+      - path: Amateur/Master/Platform/LegA.002/LegB.002/LegC.002/LegC.002_end/LegC.002_end_end
+        weight: 1
+      - path: Amateur/Master/Platform/LegA.003
+        weight: 1
+      - path: Amateur/Master/Platform/LegA.003/LegB.003
+        weight: 1
+      - path: Amateur/Master/Platform/LegA.003/LegB.003/LegC.003
+        weight: 1
+      - path: Amateur/Master/Platform/LegA.003/LegB.003/LegC.003/LegC.003_end
+        weight: 1
+      - path: Amateur/Master/Platform/LegA.003/LegB.003/LegC.003/LegC.003_end/LegC.003_end_end
+        weight: 1
+      - path: Amateur/Master/Platform/LegA.004
+        weight: 1
+      - path: Amateur/Master/Platform/LegA.004/LegB.004
+        weight: 1
+      - path: Amateur/Master/Platform/LegA.004/LegB.004/LegC.004
+        weight: 1
+      - path: Amateur/Master/Platform/LegA.004/LegB.004/LegC.004/LegC.004_end
+        weight: 1
+      - path: Amateur/Master/Platform/LegA.004/LegB.004/LegC.004/LegC.004_end/LegC.004_end_end
+        weight: 1
+      - path: Amateur/Master/Platform/LegA.005
+        weight: 1
+      - path: Amateur/Master/Platform/LegA.005/LegB.005
+        weight: 1
+      - path: Amateur/Master/Platform/LegA.005/LegB.005/LegC.005
+        weight: 1
+      - path: Amateur/Master/Platform/LegA.005/LegB.005/LegC.005/LegC.005_end
+        weight: 1
+      - path: Amateur/Master/Platform/LegA.005/LegB.005/LegC.005/LegC.005_end/LegC.005_end_end
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Camera.001
+        weight: 1
+      - path: Empty
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: Robot
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: death
+      takeName: Amateur|Amateur|Walk|Walk
+      firstFrame: 100
+      lastFrame: 119
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: .947806656
+        functionName: StartSinking
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Amateur
+        weight: 1
+      - path: Amateur/Master
+        weight: 1
+      - path: Amateur/Master/Platform
+        weight: 1
+      - path: Amateur/Master/Platform/Head
+        weight: 1
+      - path: Amateur/Master/Platform/Head/Cylinder
+        weight: 1
+      - path: Amateur/Master/Platform/Head/Head_end
+        weight: 1
+      - path: Amateur/Master/Platform/LegA
+        weight: 1
+      - path: Amateur/Master/Platform/LegA/LegB
+        weight: 1
+      - path: Amateur/Master/Platform/LegA/LegB/LegC
+        weight: 1
+      - path: Amateur/Master/Platform/LegA/LegB/LegC/LegC_end
+        weight: 1
+      - path: Amateur/Master/Platform/LegA/LegB/LegC/LegC_end/LegC_end_end
+        weight: 1
+      - path: Amateur/Master/Platform/LegA.001
+        weight: 1
+      - path: Amateur/Master/Platform/LegA.001/LegB.001
+        weight: 1
+      - path: Amateur/Master/Platform/LegA.001/LegB.001/LegC.001
+        weight: 1
+      - path: Amateur/Master/Platform/LegA.001/LegB.001/LegC.001/LegC.001_end
+        weight: 1
+      - path: Amateur/Master/Platform/LegA.001/LegB.001/LegC.001/LegC.001_end/LegC.001_end_end
+        weight: 1
+      - path: Amateur/Master/Platform/LegA.002
+        weight: 1
+      - path: Amateur/Master/Platform/LegA.002/LegB.002
+        weight: 1
+      - path: Amateur/Master/Platform/LegA.002/LegB.002/LegC.002
+        weight: 1
+      - path: Amateur/Master/Platform/LegA.002/LegB.002/LegC.002/LegC.002_end
+        weight: 1
+      - path: Amateur/Master/Platform/LegA.002/LegB.002/LegC.002/LegC.002_end/LegC.002_end_end
+        weight: 1
+      - path: Amateur/Master/Platform/LegA.003
+        weight: 1
+      - path: Amateur/Master/Platform/LegA.003/LegB.003
+        weight: 1
+      - path: Amateur/Master/Platform/LegA.003/LegB.003/LegC.003
+        weight: 1
+      - path: Amateur/Master/Platform/LegA.003/LegB.003/LegC.003/LegC.003_end
+        weight: 1
+      - path: Amateur/Master/Platform/LegA.003/LegB.003/LegC.003/LegC.003_end/LegC.003_end_end
+        weight: 1
+      - path: Amateur/Master/Platform/LegA.004
+        weight: 1
+      - path: Amateur/Master/Platform/LegA.004/LegB.004
+        weight: 1
+      - path: Amateur/Master/Platform/LegA.004/LegB.004/LegC.004
+        weight: 1
+      - path: Amateur/Master/Platform/LegA.004/LegB.004/LegC.004/LegC.004_end
+        weight: 1
+      - path: Amateur/Master/Platform/LegA.004/LegB.004/LegC.004/LegC.004_end/LegC.004_end_end
+        weight: 1
+      - path: Amateur/Master/Platform/LegA.005
+        weight: 1
+      - path: Amateur/Master/Platform/LegA.005/LegB.005
+        weight: 1
+      - path: Amateur/Master/Platform/LegA.005/LegB.005/LegC.005
+        weight: 1
+      - path: Amateur/Master/Platform/LegA.005/LegB.005/LegC.005/LegC.005_end
+        weight: 1
+      - path: Amateur/Master/Platform/LegA.005/LegB.005/LegC.005/LegC.005_end/LegC.005_end_end
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Camera.001
+        weight: 1
+      - path: Empty
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: Robot
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

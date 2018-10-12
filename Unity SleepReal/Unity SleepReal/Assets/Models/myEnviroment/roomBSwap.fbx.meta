@@ -1,0 +1,512 @@
+fileFormatVersion: 2
+guid: 04ce31e1c4d927f44806a9a4ee059cc0
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Area
+    100002: Area.001
+    100004: Arm
+    100006: BezierCurve.001
+    100008: Book
+    100010: Book.001
+    100012: Book.002
+    100014: Camera
+    100016: Chair
+    100018: Circle
+    100020: Circle.001
+    100022: Cone
+    100024: Cube.004
+    100026: Cylinder.001
+    100028: Door
+    100030: Empty.001
+    100032: Floor
+    100034: Folder
+    100036: Frame 2
+    100038: Frame1
+    100040: Hemi
+    100042: Keyboard & Mouse
+    100044: Monitor
+    100046: Music Note
+    100048: Notepad
+    100050: Pedestal
+    100052: Phone
+    100054: Plane.001
+    100056: Plane.002
+    100058: Plane.003
+    100060: Plane.005
+    100062: Plane.006
+    100064: Plane.007
+    100066: Plane.008
+    100068: Plane.009
+    100070: Plane.010
+    100072: Plane.011
+    100074: Plane.012
+    100076: Plane.013
+    100078: Plane.014
+    100080: Plane.015
+    100082: Plane.016
+    100084: Plane.017
+    100086: Plane.018
+    100088: Plane.019
+    100090: Plane.020
+    100092: Plane.021
+    100094: Plane.022
+    100096: Plane.023
+    100098: Plane.024
+    100100: Plane.025
+    100102: Plane.026
+    100104: Plane.027
+    100106: Plane.028
+    100108: Plane.029
+    100110: Plane.030
+    100112: Plane.031
+    100114: Plane.032
+    100116: Plane.033
+    100118: Plane.034
+    100120: Plane.035
+    100122: Plane.036
+    100124: Plane.038
+    100126: Plane.038_Plane.000
+    100128: Plane.039
+    100130: Plane.040
+    100132: Plane.041
+    100134: Plane.042
+    100136: Plane.043
+    100138: //RootNode
+    100140: Shelf Bottom
+    100142: Shelf Top
+    100144: Sticky Note
+    100146: Stool
+    100148: Table
+    100150: Text
+    100152: Text.001
+    100154: Video
+    100156: Walls
+    100158: Walls.001
+    100160: Wheel
+    100162: Wheel Cover
+    100164: Wheel Cover.001
+    100166: Wheel Cover.002
+    100168: Wheel Cover.003
+    100170: Wheel Cover.004
+    100172: Wheel.001
+    100174: Wheel.002
+    100176: Wheel.003
+    100178: Wheel.004
+    100180: WIre
+    100182: Wire 2
+    100184: Wire front
+    400000: Area
+    400002: Area.001
+    400004: Arm
+    400006: BezierCurve.001
+    400008: Book
+    400010: Book.001
+    400012: Book.002
+    400014: Camera
+    400016: Chair
+    400018: Circle
+    400020: Circle.001
+    400022: Cone
+    400024: Cube.004
+    400026: Cylinder.001
+    400028: Door
+    400030: Empty.001
+    400032: Floor
+    400034: Folder
+    400036: Frame 2
+    400038: Frame1
+    400040: Hemi
+    400042: Keyboard & Mouse
+    400044: Monitor
+    400046: Music Note
+    400048: Notepad
+    400050: Pedestal
+    400052: Phone
+    400054: Plane.001
+    400056: Plane.002
+    400058: Plane.003
+    400060: Plane.005
+    400062: Plane.006
+    400064: Plane.007
+    400066: Plane.008
+    400068: Plane.009
+    400070: Plane.010
+    400072: Plane.011
+    400074: Plane.012
+    400076: Plane.013
+    400078: Plane.014
+    400080: Plane.015
+    400082: Plane.016
+    400084: Plane.017
+    400086: Plane.018
+    400088: Plane.019
+    400090: Plane.020
+    400092: Plane.021
+    400094: Plane.022
+    400096: Plane.023
+    400098: Plane.024
+    400100: Plane.025
+    400102: Plane.026
+    400104: Plane.027
+    400106: Plane.028
+    400108: Plane.029
+    400110: Plane.030
+    400112: Plane.031
+    400114: Plane.032
+    400116: Plane.033
+    400118: Plane.034
+    400120: Plane.035
+    400122: Plane.036
+    400124: Plane.038
+    400126: Plane.038_Plane.000
+    400128: Plane.039
+    400130: Plane.040
+    400132: Plane.041
+    400134: Plane.042
+    400136: Plane.043
+    400138: //RootNode
+    400140: Shelf Bottom
+    400142: Shelf Top
+    400144: Sticky Note
+    400146: Stool
+    400148: Table
+    400150: Text
+    400152: Text.001
+    400154: Video
+    400156: Walls
+    400158: Walls.001
+    400160: Wheel
+    400162: Wheel Cover
+    400164: Wheel Cover.001
+    400166: Wheel Cover.002
+    400168: Wheel Cover.003
+    400170: Wheel Cover.004
+    400172: Wheel.001
+    400174: Wheel.002
+    400176: Wheel.003
+    400178: Wheel.004
+    400180: WIre
+    400182: Wire 2
+    400184: Wire front
+    2300000: Arm
+    2300002: BezierCurve.001
+    2300004: Book
+    2300006: Book.001
+    2300008: Book.002
+    2300010: Chair
+    2300012: Circle
+    2300014: Circle.001
+    2300016: Cone
+    2300018: Cube.004
+    2300020: Cylinder.001
+    2300022: Door
+    2300024: Floor
+    2300026: Folder
+    2300028: Frame 2
+    2300030: Frame1
+    2300032: Keyboard & Mouse
+    2300034: Monitor
+    2300036: Music Note
+    2300038: Notepad
+    2300040: Pedestal
+    2300042: Phone
+    2300044: Plane.001
+    2300046: Plane.002
+    2300048: Plane.003
+    2300050: Plane.005
+    2300052: Plane.006
+    2300054: Plane.007
+    2300056: Plane.008
+    2300058: Plane.009
+    2300060: Plane.010
+    2300062: Plane.011
+    2300064: Plane.012
+    2300066: Plane.013
+    2300068: Plane.014
+    2300070: Plane.015
+    2300072: Plane.016
+    2300074: Plane.017
+    2300076: Plane.018
+    2300078: Plane.019
+    2300080: Plane.020
+    2300082: Plane.021
+    2300084: Plane.022
+    2300086: Plane.023
+    2300088: Plane.024
+    2300090: Plane.025
+    2300092: Plane.026
+    2300094: Plane.027
+    2300096: Plane.028
+    2300098: Plane.029
+    2300100: Plane.030
+    2300102: Plane.031
+    2300104: Plane.032
+    2300106: Plane.033
+    2300108: Plane.034
+    2300110: Plane.035
+    2300112: Plane.036
+    2300114: Plane.038
+    2300116: Plane.038_Plane.000
+    2300118: Plane.039
+    2300120: Plane.040
+    2300122: Plane.041
+    2300124: Plane.042
+    2300126: Plane.043
+    2300128: Shelf Bottom
+    2300130: Shelf Top
+    2300132: Sticky Note
+    2300134: Stool
+    2300136: Table
+    2300138: Text
+    2300140: Text.001
+    2300142: Video
+    2300144: Walls
+    2300146: Walls.001
+    2300148: Wheel
+    2300150: Wheel Cover
+    2300152: Wheel Cover.001
+    2300154: Wheel Cover.002
+    2300156: Wheel Cover.003
+    2300158: Wheel Cover.004
+    2300160: Wheel.001
+    2300162: Wheel.002
+    2300164: Wheel.003
+    2300166: Wheel.004
+    2300168: WIre
+    2300170: Wire 2
+    2300172: Wire front
+    3300000: Arm
+    3300002: BezierCurve.001
+    3300004: Book
+    3300006: Book.001
+    3300008: Book.002
+    3300010: Chair
+    3300012: Circle
+    3300014: Circle.001
+    3300016: Cone
+    3300018: Cube.004
+    3300020: Cylinder.001
+    3300022: Door
+    3300024: Floor
+    3300026: Folder
+    3300028: Frame 2
+    3300030: Frame1
+    3300032: Keyboard & Mouse
+    3300034: Monitor
+    3300036: Music Note
+    3300038: Notepad
+    3300040: Pedestal
+    3300042: Phone
+    3300044: Plane.001
+    3300046: Plane.002
+    3300048: Plane.003
+    3300050: Plane.005
+    3300052: Plane.006
+    3300054: Plane.007
+    3300056: Plane.008
+    3300058: Plane.009
+    3300060: Plane.010
+    3300062: Plane.011
+    3300064: Plane.012
+    3300066: Plane.013
+    3300068: Plane.014
+    3300070: Plane.015
+    3300072: Plane.016
+    3300074: Plane.017
+    3300076: Plane.018
+    3300078: Plane.019
+    3300080: Plane.020
+    3300082: Plane.021
+    3300084: Plane.022
+    3300086: Plane.023
+    3300088: Plane.024
+    3300090: Plane.025
+    3300092: Plane.026
+    3300094: Plane.027
+    3300096: Plane.028
+    3300098: Plane.029
+    3300100: Plane.030
+    3300102: Plane.031
+    3300104: Plane.032
+    3300106: Plane.033
+    3300108: Plane.034
+    3300110: Plane.035
+    3300112: Plane.036
+    3300114: Plane.038
+    3300116: Plane.038_Plane.000
+    3300118: Plane.039
+    3300120: Plane.040
+    3300122: Plane.041
+    3300124: Plane.042
+    3300126: Plane.043
+    3300128: Shelf Bottom
+    3300130: Shelf Top
+    3300132: Sticky Note
+    3300134: Stool
+    3300136: Table
+    3300138: Text
+    3300140: Text.001
+    3300142: Video
+    3300144: Walls
+    3300146: Walls.001
+    3300148: Wheel
+    3300150: Wheel Cover
+    3300152: Wheel Cover.001
+    3300154: Wheel Cover.002
+    3300156: Wheel Cover.003
+    3300158: Wheel Cover.004
+    3300160: Wheel.001
+    3300162: Wheel.002
+    3300164: Wheel.003
+    3300166: Wheel.004
+    3300168: WIre
+    3300170: Wire 2
+    3300172: Wire front
+    4300000: Book.002
+    4300002: Book.001
+    4300004: Walls.001
+    4300006: Monitor
+    4300008: Frame 2
+    4300012: WIre
+    4300014: Wire front
+    4300016: Book
+    4300018: Shelf Top
+    4300020: Shelf Bottom
+    4300022: Floor
+    4300024: Table
+    4300026: Frame1
+    4300028: Door
+    4300030: Walls
+    4300032: Chair
+    4300034: Stool
+    4300036: Arm
+    4300038: Pedestal
+    4300040: Wheel.004
+    4300042: Wheel Cover.004
+    4300044: Wheel.003
+    4300046: Wheel Cover.003
+    4300048: Wheel.002
+    4300050: Wheel Cover.002
+    4300052: Wheel.001
+    4300054: Wheel Cover.001
+    4300056: Wheel
+    4300058: Wheel Cover
+    4300060: Keyboard & Mouse
+    4300062: Phone
+    4300064: Plane.038_Plane.000
+    4300066: Cylinder.001
+    4300070: Circle.001
+    4300072: Cube.004
+    4300074: Plane.002
+    4300076: Plane.040
+    4300078: Plane.039
+    4300080: Plane.038
+    4300082: Plane.032
+    4300084: Plane.031
+    4300086: Plane.030
+    4300088: Plane.029
+    4300090: Plane.028
+    4300092: Plane.027
+    4300094: Plane.025
+    4300096: Plane.024
+    4300098: Plane.023
+    4300100: Plane.022
+    4300102: Plane.021
+    4300104: Plane.035
+    4300106: Plane.034
+    4300108: Plane.033
+    4300112: Plane.020
+    4300114: Plane.019
+    4300116: Plane.018
+    4300118: Plane.017
+    4300120: Plane.016
+    4300122: Plane.015
+    4300124: Plane.014
+    4300126: Plane.013
+    4300128: Plane.012
+    4300130: Plane.010
+    4300132: Plane.009
+    4300134: Plane.008
+    4300136: Plane.007
+    4300138: Plane.006
+    4300140: Plane.005
+    4300142: Plane.036
+    4300144: Plane.011
+    4300146: Plane.041
+    4300148: Plane.042
+    4300150: Plane.043
+    4300152: Circle
+    4300154: Sticky Note
+    4300156: Cone
+    4300158: Folder
+    4300160: Plane.001
+    4300162: Music Note
+    4300164: Video
+    4300166: Plane.003
+    4300168: Text.001
+    4300170: Text
+    4300172: Notepad
+    7400000: Frame 2|Plane.003Action
+    7400002: Area.001|Plane.003Action
+    7400004: Door|Plane.003Action
+    7400006: Video|Plane.003Action
+    7400008: Plane.003|Plane.003Action
+    7400010: Text.001|Plane.003Action
+    7400012: Text|Plane.003Action
+    7400014: Camera|Plane.003Action
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

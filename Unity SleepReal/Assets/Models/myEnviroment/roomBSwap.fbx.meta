@@ -1,0 +1,347 @@
+fileFormatVersion: 2
+guid: 9253df1b1394cff47ae2e934c3732fec
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Area
+    100002: Area.001
+    100004: Book
+    100006: Book.001
+    100008: Book.002
+    100010: Calander
+    100012: Camera
+    100014: Coffee
+    100016: Door
+    100018: Dustbin
+    100020: Floor
+    100022: Floor wood2
+    100024: Folder
+    100026: Frame 2
+    100028: Frame1
+    100030: Hemi
+    100032: Highlighter
+    100034: Keyboard
+    100036: knop om snooze
+    100038: Mail
+    100040: Mail.001
+    100042: Mail.002
+    100044: Monitor
+    100046: Mouse
+    100048: Note 1
+    100050: Note 2
+    100052: Note 3
+    100054: Notepad
+    100056: Notice board
+    100058: Paper clips
+    100060: Paperclip
+    100062: Paperclip.001
+    100064: Paperclip.002
+    100066: Pen cup
+    100068: Pencils
+    100070: Pin
+    100072: Pin.001
+    100074: Pin.002
+    100076: Pin.003
+    100078: Plane.000
+    100080: Plane.001
+    100082: Plane.002
+    100084: Plane.004
+    100086: Plane.005
+    100088: Poster
+    100090: //RootNode
+    100092: scissor
+    100094: Shelf Bottom
+    100096: Shelf Top
+    100098: Staples
+    100100: switch
+    100102: Switchboard
+    100104: Table handle
+    100106: Tape1
+    100108: Tape2
+    100110: Tape3
+    100112: Tape4
+    100114: USB
+    100116: Walls
+    100118: Wire
+    100120: Wndowi
+    400000: Area
+    400002: Area.001
+    400004: Book
+    400006: Book.001
+    400008: Book.002
+    400010: Calander
+    400012: Camera
+    400014: Coffee
+    400016: Door
+    400018: Dustbin
+    400020: Floor
+    400022: Floor wood2
+    400024: Folder
+    400026: Frame 2
+    400028: Frame1
+    400030: Hemi
+    400032: Highlighter
+    400034: Keyboard
+    400036: knop om snooze
+    400038: Mail
+    400040: Mail.001
+    400042: Mail.002
+    400044: Monitor
+    400046: Mouse
+    400048: Note 1
+    400050: Note 2
+    400052: Note 3
+    400054: Notepad
+    400056: Notice board
+    400058: Paper clips
+    400060: Paperclip
+    400062: Paperclip.001
+    400064: Paperclip.002
+    400066: Pen cup
+    400068: Pencils
+    400070: Pin
+    400072: Pin.001
+    400074: Pin.002
+    400076: Pin.003
+    400078: Plane.000
+    400080: Plane.001
+    400082: Plane.002
+    400084: Plane.004
+    400086: Plane.005
+    400088: Poster
+    400090: //RootNode
+    400092: scissor
+    400094: Shelf Bottom
+    400096: Shelf Top
+    400098: Staples
+    400100: switch
+    400102: Switchboard
+    400104: Table handle
+    400106: Tape1
+    400108: Tape2
+    400110: Tape3
+    400112: Tape4
+    400114: USB
+    400116: Walls
+    400118: Wire
+    400120: Wndowi
+    2300000: Book
+    2300002: Book.001
+    2300004: Book.002
+    2300006: Calander
+    2300008: Coffee
+    2300010: Door
+    2300012: Dustbin
+    2300014: Floor
+    2300016: Floor wood2
+    2300018: Folder
+    2300020: Frame 2
+    2300022: Frame1
+    2300024: Highlighter
+    2300026: Keyboard
+    2300028: knop om snooze
+    2300030: Mail
+    2300032: Mail.001
+    2300034: Mail.002
+    2300036: Monitor
+    2300038: Mouse
+    2300040: Note 1
+    2300042: Note 2
+    2300044: Note 3
+    2300046: Notepad
+    2300048: Notice board
+    2300050: Paper clips
+    2300052: Paperclip
+    2300054: Paperclip.001
+    2300056: Paperclip.002
+    2300058: Pen cup
+    2300060: Pencils
+    2300062: Pin
+    2300064: Pin.001
+    2300066: Pin.002
+    2300068: Pin.003
+    2300070: Plane.000
+    2300072: Plane.001
+    2300074: Plane.002
+    2300076: Plane.004
+    2300078: Plane.005
+    2300080: Poster
+    2300082: scissor
+    2300084: Shelf Bottom
+    2300086: Shelf Top
+    2300088: Staples
+    2300090: switch
+    2300092: Switchboard
+    2300094: Table handle
+    2300096: Tape1
+    2300098: Tape2
+    2300100: Tape3
+    2300102: Tape4
+    2300104: USB
+    2300106: Walls
+    2300108: Wire
+    2300110: Wndowi
+    3300000: Book
+    3300002: Book.001
+    3300004: Book.002
+    3300006: Calander
+    3300008: Coffee
+    3300010: Door
+    3300012: Dustbin
+    3300014: Floor
+    3300016: Floor wood2
+    3300018: Folder
+    3300020: Frame 2
+    3300022: Frame1
+    3300024: Highlighter
+    3300026: Keyboard
+    3300028: knop om snooze
+    3300030: Mail
+    3300032: Mail.001
+    3300034: Mail.002
+    3300036: Monitor
+    3300038: Mouse
+    3300040: Note 1
+    3300042: Note 2
+    3300044: Note 3
+    3300046: Notepad
+    3300048: Notice board
+    3300050: Paper clips
+    3300052: Paperclip
+    3300054: Paperclip.001
+    3300056: Paperclip.002
+    3300058: Pen cup
+    3300060: Pencils
+    3300062: Pin
+    3300064: Pin.001
+    3300066: Pin.002
+    3300068: Pin.003
+    3300070: Plane.000
+    3300072: Plane.001
+    3300074: Plane.002
+    3300076: Plane.004
+    3300078: Plane.005
+    3300080: Poster
+    3300082: scissor
+    3300084: Shelf Bottom
+    3300086: Shelf Top
+    3300088: Staples
+    3300090: switch
+    3300092: Switchboard
+    3300094: Table handle
+    3300096: Tape1
+    3300098: Tape2
+    3300100: Tape3
+    3300102: Tape4
+    3300104: USB
+    3300106: Walls
+    3300108: Wire
+    3300110: Wndowi
+    4300000: Paperclip.002
+    4300002: Paperclip.001
+    4300004: Pin.003
+    4300006: Pin.002
+    4300008: Pin.001
+    4300010: Mail.002
+    4300012: Mail.001
+    4300014: Note 2
+    4300016: Table handle
+    4300018: Mouse
+    4300020: Book.002
+    4300022: Book.001
+    4300024: Wndowi
+    4300026: Monitor
+    4300028: Frame 2
+    4300030: Book
+    4300032: Shelf Top
+    4300034: Shelf Bottom
+    4300036: Floor
+    4300038: Frame1
+    4300040: Door
+    4300042: Walls
+    4300044: Keyboard
+    4300046: Dustbin
+    4300048: Folder
+    4300050: Plane.005
+    4300052: Plane.004
+    4300054: Plane.002
+    4300056: Plane.000
+    4300058: Plane.001
+    4300060: Notepad
+    4300062: Floor wood2
+    4300064: Pen cup
+    4300066: Switchboard
+    4300068: switch
+    4300070: Wire
+    4300072: Note 1
+    4300074: Note 3
+    4300076: Notice board
+    4300078: Poster
+    4300080: Tape2
+    4300082: Paper clips
+    4300084: Highlighter
+    4300086: Pencils
+    4300088: Coffee
+    4300090: Mail
+    4300092: scissor
+    4300094: USB
+    4300096: Paperclip
+    4300098: Pin
+    4300100: Calander
+    4300102: Staples
+    4300104: knop om snooze
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

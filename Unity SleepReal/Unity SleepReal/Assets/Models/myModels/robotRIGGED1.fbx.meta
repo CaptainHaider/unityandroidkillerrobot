@@ -1,0 +1,500 @@
+fileFormatVersion: 2
+guid: c5ee6e1432bc0f544bfba1b336a32208
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Arm.L
+    100002: Arm.L.001
+    100004: Arm.R
+    100006: Arm.R.001
+    100008: Armature
+    100010: Body
+    100012: Camera
+    100014: Cube
+    100016: Cube.001
+    100018: Cube.002
+    100020: Cube.003
+    100022: Cylinder
+    100024: Cylinder.001
+    100026: Cylinder.002
+    100028: Cylinder.003
+    100030: Cylinder.004
+    100032: Cylinder.005
+    100034: Cylinder.006
+    100036: Cylinder.007
+    100038: Cylinder.008
+    100040: Cylinder.009
+    100042: Cylinder.010
+    100044: Finger01.L
+    100046: Finger01.L_end
+    100048: Finger01.R
+    100050: Finger01.R_end
+    100052: Finger02.L
+    100054: Finger02.L_end
+    100056: Finger02.R
+    100058: Finger02.R_end
+    100060: Hand.L
+    100062: Hand.R
+    100064: Head
+    100066: Leg.L
+    100068: Leg.R
+    100070: Leg02.L
+    100072: Leg02.L_end
+    100074: Leg02.R
+    100076: Leg02.R_end
+    100078: //RootNode
+    100080: Sphere
+    100082: Sphere.001
+    100084: Sphere.002
+    100086: Sphere.003
+    100088: Sphere.003_MeshPart0
+    100090: Sphere.003_MeshPart1
+    100092: Sphere.004
+    100094: Sphere.004_MeshPart0
+    100096: Sphere.004_MeshPart1
+    100098: Sphere.005
+    100100: Sphere.006
+    100102: SuperMover
+    400000: Arm.L
+    400002: Arm.L.001
+    400004: Arm.R
+    400006: Arm.R.001
+    400008: Armature
+    400010: Body
+    400012: Camera
+    400014: Cube
+    400016: Cube.001
+    400018: Cube.002
+    400020: Cube.003
+    400022: Cylinder
+    400024: Cylinder.001
+    400026: Cylinder.002
+    400028: Cylinder.003
+    400030: Cylinder.004
+    400032: Cylinder.005
+    400034: Cylinder.006
+    400036: Cylinder.007
+    400038: Cylinder.008
+    400040: Cylinder.009
+    400042: Cylinder.010
+    400044: Finger01.L
+    400046: Finger01.L_end
+    400048: Finger01.R
+    400050: Finger01.R_end
+    400052: Finger02.L
+    400054: Finger02.L_end
+    400056: Finger02.R
+    400058: Finger02.R_end
+    400060: Hand.L
+    400062: Hand.R
+    400064: Head
+    400066: Leg.L
+    400068: Leg.R
+    400070: Leg02.L
+    400072: Leg02.L_end
+    400074: Leg02.R
+    400076: Leg02.R_end
+    400078: //RootNode
+    400080: Sphere
+    400082: Sphere.001
+    400084: Sphere.002
+    400086: Sphere.003
+    400088: Sphere.003_MeshPart0
+    400090: Sphere.003_MeshPart1
+    400092: Sphere.004
+    400094: Sphere.004_MeshPart0
+    400096: Sphere.004_MeshPart1
+    400098: Sphere.005
+    400100: Sphere.006
+    400102: SuperMover
+    2300000: Cube
+    2300002: Cube.001
+    2300004: Cube.002
+    2300006: Cube.003
+    2300008: Cylinder
+    2300010: Cylinder.001
+    2300012: Cylinder.002
+    2300014: Cylinder.003
+    2300016: Cylinder.004
+    2300018: Cylinder.005
+    2300020: Cylinder.006
+    2300022: Cylinder.007
+    2300024: Cylinder.008
+    2300026: Cylinder.009
+    2300028: Cylinder.010
+    2300030: Sphere
+    2300032: Sphere.001
+    2300034: Sphere.002
+    2300036: Sphere.003_MeshPart0
+    2300038: Sphere.003_MeshPart1
+    2300040: Sphere.004_MeshPart0
+    2300042: Sphere.004_MeshPart1
+    2300044: Sphere.005
+    2300046: Sphere.006
+    3300000: Cube
+    3300002: Cube.001
+    3300004: Cube.002
+    3300006: Cube.003
+    3300008: Cylinder
+    3300010: Cylinder.001
+    3300012: Cylinder.002
+    3300014: Cylinder.003
+    3300016: Cylinder.004
+    3300018: Cylinder.005
+    3300020: Cylinder.006
+    3300022: Cylinder.007
+    3300024: Cylinder.008
+    3300026: Cylinder.009
+    3300028: Cylinder.010
+    3300030: Sphere
+    3300032: Sphere.001
+    3300034: Sphere.002
+    3300036: Sphere.003_MeshPart0
+    3300038: Sphere.003_MeshPart1
+    3300040: Sphere.004_MeshPart0
+    3300042: Sphere.004_MeshPart1
+    3300044: Sphere.005
+    3300046: Sphere.006
+    4300000: Sphere
+    4300002: Sphere.006
+    4300004: Cylinder.010
+    4300006: Sphere.005
+    4300008: Cylinder.007
+    4300010: Sphere.002
+    4300012: Sphere.001
+    4300014: Cylinder
+    4300016: Cylinder.008
+    4300018: Sphere.003_MeshPart0
+    4300020: Sphere.003_MeshPart1
+    4300022: Cube
+    4300024: Cube.001
+    4300026: Cylinder.009
+    4300028: Sphere.004_MeshPart0
+    4300030: Sphere.004_MeshPart1
+    4300032: Cube.002
+    4300034: Cube.003
+    4300036: Cylinder.001
+    4300038: Cylinder.004
+    4300040: Cylinder.006
+    4300042: Cylinder.003
+    4300044: Cylinder.005
+    4300046: Cylinder.002
+    7400000: Armature|ArmatureAction
+    7400002: Armature|Cylinder.002Action
+    7400004: Cylinder.002|Cylinder.002Action
+    7400006: Armature|ArmatureAction0
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Armature|ArmatureAction
+      takeName: Armature|ArmatureAction
+      firstFrame: 0
+      lastFrame: 80
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/SuperMover
+        weight: 1
+      - path: Armature/SuperMover/Body
+        weight: 1
+      - path: Armature/SuperMover/Body/Head
+        weight: 1
+      - path: Armature/SuperMover/Body/Head/Arm.L
+        weight: 1
+      - path: Armature/SuperMover/Body/Head/Arm.L/Arm.L.001
+        weight: 1
+      - path: Armature/SuperMover/Body/Head/Arm.L/Arm.L.001/Cylinder.008
+        weight: 1
+      - path: Armature/SuperMover/Body/Head/Arm.L/Arm.L.001/Hand.L
+        weight: 1
+      - path: Armature/SuperMover/Body/Head/Arm.L/Arm.L.001/Hand.L/Finger01.L
+        weight: 1
+      - path: Armature/SuperMover/Body/Head/Arm.L/Arm.L.001/Hand.L/Finger01.L/Cube
+        weight: 1
+      - path: Armature/SuperMover/Body/Head/Arm.L/Arm.L.001/Hand.L/Finger01.L/Finger01.L_end
+        weight: 1
+      - path: Armature/SuperMover/Body/Head/Arm.L/Arm.L.001/Hand.L/Finger02.L
+        weight: 1
+      - path: Armature/SuperMover/Body/Head/Arm.L/Arm.L.001/Hand.L/Finger02.L/Cube.001
+        weight: 1
+      - path: Armature/SuperMover/Body/Head/Arm.L/Arm.L.001/Hand.L/Finger02.L/Finger02.L_end
+        weight: 1
+      - path: Armature/SuperMover/Body/Head/Arm.L/Arm.L.001/Hand.L/Sphere.003
+        weight: 1
+      - path: Armature/SuperMover/Body/Head/Arm.L/Arm.L.001/Hand.L/Sphere.003/Sphere.003_MeshPart0
+        weight: 1
+      - path: Armature/SuperMover/Body/Head/Arm.L/Arm.L.001/Hand.L/Sphere.003/Sphere.003_MeshPart1
+        weight: 1
+      - path: Armature/SuperMover/Body/Head/Arm.R
+        weight: 1
+      - path: Armature/SuperMover/Body/Head/Arm.R/Arm.R.001
+        weight: 1
+      - path: Armature/SuperMover/Body/Head/Arm.R/Arm.R.001/Cylinder.009
+        weight: 1
+      - path: Armature/SuperMover/Body/Head/Arm.R/Arm.R.001/Hand.R
+        weight: 1
+      - path: Armature/SuperMover/Body/Head/Arm.R/Arm.R.001/Hand.R/Finger01.R
+        weight: 1
+      - path: Armature/SuperMover/Body/Head/Arm.R/Arm.R.001/Hand.R/Finger01.R/Cube.002
+        weight: 1
+      - path: Armature/SuperMover/Body/Head/Arm.R/Arm.R.001/Hand.R/Finger01.R/Finger01.R_end
+        weight: 1
+      - path: Armature/SuperMover/Body/Head/Arm.R/Arm.R.001/Hand.R/Finger02.R
+        weight: 1
+      - path: Armature/SuperMover/Body/Head/Arm.R/Arm.R.001/Hand.R/Finger02.R/Cube.003
+        weight: 1
+      - path: Armature/SuperMover/Body/Head/Arm.R/Arm.R.001/Hand.R/Finger02.R/Finger02.R_end
+        weight: 1
+      - path: Armature/SuperMover/Body/Head/Arm.R/Arm.R.001/Hand.R/Sphere.004
+        weight: 1
+      - path: Armature/SuperMover/Body/Head/Arm.R/Arm.R.001/Hand.R/Sphere.004/Sphere.004_MeshPart0
+        weight: 1
+      - path: Armature/SuperMover/Body/Head/Arm.R/Arm.R.001/Hand.R/Sphere.004/Sphere.004_MeshPart1
+        weight: 1
+      - path: Armature/SuperMover/Body/Head/Cylinder
+        weight: 1
+      - path: Armature/SuperMover/Body/Head/Cylinder.007
+        weight: 1
+      - path: Armature/SuperMover/Body/Head/Cylinder.007/Sphere.002
+        weight: 1
+      - path: Armature/SuperMover/Body/Head/Cylinder.010
+        weight: 1
+      - path: Armature/SuperMover/Body/Head/Cylinder.010/Sphere.005
+        weight: 1
+      - path: Armature/SuperMover/Body/Head/Sphere.001
+        weight: 1
+      - path: Armature/SuperMover/Body/Head/Sphere.006
+        weight: 1
+      - path: Armature/SuperMover/Body/Leg.L
+        weight: 1
+      - path: Armature/SuperMover/Body/Leg.L/Cylinder.001
+        weight: 1
+      - path: Armature/SuperMover/Body/Leg.L/Cylinder.004
+        weight: 1
+      - path: Armature/SuperMover/Body/Leg.L/Leg02.L
+        weight: 1
+      - path: Armature/SuperMover/Body/Leg.L/Leg02.L/Cylinder.006
+        weight: 1
+      - path: Armature/SuperMover/Body/Leg.L/Leg02.L/Leg02.L_end
+        weight: 1
+      - path: Armature/SuperMover/Body/Leg.R
+        weight: 1
+      - path: Armature/SuperMover/Body/Leg.R/Cylinder.003
+        weight: 1
+      - path: Armature/SuperMover/Body/Leg.R/Cylinder.005
+        weight: 1
+      - path: Armature/SuperMover/Body/Leg.R/Leg02.R
+        weight: 1
+      - path: Armature/SuperMover/Body/Leg.R/Leg02.R/Cylinder.002
+        weight: 1
+      - path: Armature/SuperMover/Body/Leg.R/Leg02.R/Leg02.R_end
+        weight: 1
+      - path: Armature/SuperMover/Body/Sphere
+        weight: 1
+      - path: Camera
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Armature|ArmatureAction0
+      takeName: Armature|ArmatureAction
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/SuperMover
+        weight: 1
+      - path: Armature/SuperMover/Body
+        weight: 1
+      - path: Armature/SuperMover/Body/Head
+        weight: 1
+      - path: Armature/SuperMover/Body/Head/Arm.L
+        weight: 1
+      - path: Armature/SuperMover/Body/Head/Arm.L/Arm.L.001
+        weight: 1
+      - path: Armature/SuperMover/Body/Head/Arm.L/Arm.L.001/Cylinder.008
+        weight: 1
+      - path: Armature/SuperMover/Body/Head/Arm.L/Arm.L.001/Hand.L
+        weight: 1
+      - path: Armature/SuperMover/Body/Head/Arm.L/Arm.L.001/Hand.L/Finger01.L
+        weight: 1
+      - path: Armature/SuperMover/Body/Head/Arm.L/Arm.L.001/Hand.L/Finger01.L/Cube
+        weight: 1
+      - path: Armature/SuperMover/Body/Head/Arm.L/Arm.L.001/Hand.L/Finger01.L/Finger01.L_end
+        weight: 1
+      - path: Armature/SuperMover/Body/Head/Arm.L/Arm.L.001/Hand.L/Finger02.L
+        weight: 1
+      - path: Armature/SuperMover/Body/Head/Arm.L/Arm.L.001/Hand.L/Finger02.L/Cube.001
+        weight: 1
+      - path: Armature/SuperMover/Body/Head/Arm.L/Arm.L.001/Hand.L/Finger02.L/Finger02.L_end
+        weight: 1
+      - path: Armature/SuperMover/Body/Head/Arm.L/Arm.L.001/Hand.L/Sphere.003
+        weight: 1
+      - path: Armature/SuperMover/Body/Head/Arm.L/Arm.L.001/Hand.L/Sphere.003/Sphere.003_MeshPart0
+        weight: 1
+      - path: Armature/SuperMover/Body/Head/Arm.L/Arm.L.001/Hand.L/Sphere.003/Sphere.003_MeshPart1
+        weight: 1
+      - path: Armature/SuperMover/Body/Head/Arm.R
+        weight: 1
+      - path: Armature/SuperMover/Body/Head/Arm.R/Arm.R.001
+        weight: 1
+      - path: Armature/SuperMover/Body/Head/Arm.R/Arm.R.001/Cylinder.009
+        weight: 1
+      - path: Armature/SuperMover/Body/Head/Arm.R/Arm.R.001/Hand.R
+        weight: 1
+      - path: Armature/SuperMover/Body/Head/Arm.R/Arm.R.001/Hand.R/Finger01.R
+        weight: 1
+      - path: Armature/SuperMover/Body/Head/Arm.R/Arm.R.001/Hand.R/Finger01.R/Cube.002
+        weight: 1
+      - path: Armature/SuperMover/Body/Head/Arm.R/Arm.R.001/Hand.R/Finger01.R/Finger01.R_end
+        weight: 1
+      - path: Armature/SuperMover/Body/Head/Arm.R/Arm.R.001/Hand.R/Finger02.R
+        weight: 1
+      - path: Armature/SuperMover/Body/Head/Arm.R/Arm.R.001/Hand.R/Finger02.R/Cube.003
+        weight: 1
+      - path: Armature/SuperMover/Body/Head/Arm.R/Arm.R.001/Hand.R/Finger02.R/Finger02.R_end
+        weight: 1
+      - path: Armature/SuperMover/Body/Head/Arm.R/Arm.R.001/Hand.R/Sphere.004
+        weight: 1
+      - path: Armature/SuperMover/Body/Head/Arm.R/Arm.R.001/Hand.R/Sphere.004/Sphere.004_MeshPart0
+        weight: 1
+      - path: Armature/SuperMover/Body/Head/Arm.R/Arm.R.001/Hand.R/Sphere.004/Sphere.004_MeshPart1
+        weight: 1
+      - path: Armature/SuperMover/Body/Head/Cylinder
+        weight: 1
+      - path: Armature/SuperMover/Body/Head/Cylinder.007
+        weight: 1
+      - path: Armature/SuperMover/Body/Head/Cylinder.007/Sphere.002
+        weight: 1
+      - path: Armature/SuperMover/Body/Head/Cylinder.010
+        weight: 1
+      - path: Armature/SuperMover/Body/Head/Cylinder.010/Sphere.005
+        weight: 1
+      - path: Armature/SuperMover/Body/Head/Sphere.001
+        weight: 1
+      - path: Armature/SuperMover/Body/Head/Sphere.006
+        weight: 1
+      - path: Armature/SuperMover/Body/Leg.L
+        weight: 1
+      - path: Armature/SuperMover/Body/Leg.L/Cylinder.001
+        weight: 1
+      - path: Armature/SuperMover/Body/Leg.L/Cylinder.004
+        weight: 1
+      - path: Armature/SuperMover/Body/Leg.L/Leg02.L
+        weight: 1
+      - path: Armature/SuperMover/Body/Leg.L/Leg02.L/Cylinder.006
+        weight: 1
+      - path: Armature/SuperMover/Body/Leg.L/Leg02.L/Leg02.L_end
+        weight: 1
+      - path: Armature/SuperMover/Body/Leg.R
+        weight: 1
+      - path: Armature/SuperMover/Body/Leg.R/Cylinder.003
+        weight: 1
+      - path: Armature/SuperMover/Body/Leg.R/Cylinder.005
+        weight: 1
+      - path: Armature/SuperMover/Body/Leg.R/Leg02.R
+        weight: 1
+      - path: Armature/SuperMover/Body/Leg.R/Leg02.R/Cylinder.002
+        weight: 1
+      - path: Armature/SuperMover/Body/Leg.R/Leg02.R/Leg02.R_end
+        weight: 1
+      - path: Armature/SuperMover/Body/Sphere
+        weight: 1
+      - path: Camera
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
